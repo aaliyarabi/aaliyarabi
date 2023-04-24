@@ -31,4 +31,5 @@ The skills I developed in this project are transferable to many other programmin
 
 
 𝘏𝘰𝘸 𝘥𝘪𝘥 𝘺𝘰𝘶 𝘮𝘢𝘬𝘦 𝘵𝘩𝘪𝘴 𝘱𝘳𝘰𝘨𝘳𝘢𝘮 𝘮𝘢𝘪𝘯𝘵𝘢𝘪𝘯𝘢𝘣𝘭𝘦, 𝘳𝘦𝘢𝘥𝘢𝘣𝘭𝘦, 𝘢𝘯𝘥 𝘢𝘥𝘢𝘱𝘵𝘢𝘣𝘭𝘦?
+
 To ensure that this program is maintainable, readable, and adaptable, I followed several best practices. First, I used clear and descriptive variable and function names. Second, I tried to follow a consistent coding style. Finally, I then separated the code into logical components. These practices make the code easy to understand and modify in the future, which will save time and effort if changes are needed.
