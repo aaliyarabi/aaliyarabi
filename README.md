@@ -1,5 +1,6 @@
 PROJECT 1, CHADA TECH: DEVELOP A PROGRAM THAT DISPLAYS TWO CLOCKS
 
+
 𝘚𝘶𝘮𝘮𝘢𝘳𝘪𝘻𝘦 𝘵𝘩𝘦 𝘱𝘳𝘰𝘫𝘦𝘤𝘵 𝘢𝘯𝘥 𝘸𝘩𝘢𝘵 𝘱𝘳𝘰𝘣𝘭𝘦𝘮 𝘪𝘵 𝘸𝘢𝘴 𝘴𝘰𝘭𝘷𝘪𝘯𝘨.
 
 First of all, the project is a clock program that provides two interfaces, one for a 12-hour clock and one for a 24-hour clock. Users can set the initial time and then add hours, minutes, and seconds to the clock as desired. The program displays the current time for both the 12-hour and 24-hour interfaces, and allows users to choose from four options in a main menu: add 1 hour, add 1 minute, add 1 second, or exit the program.
@@ -13,6 +14,7 @@ One strength of this code is its simplicity and readability. The code is structu
 
 
 𝘞𝘩𝘦𝘳𝘦 𝘤𝘰𝘶𝘭𝘥 𝘺𝘰𝘶 𝘦𝘯𝘩𝘢𝘯𝘤𝘦 𝘺𝘰𝘶𝘳 𝘤𝘰𝘥𝘦? 𝘏𝘰𝘸 𝘸𝘰𝘶𝘭𝘥 𝘵𝘩𝘦𝘴𝘦 𝘪𝘮𝘱𝘳𝘰𝘷𝘦𝘮𝘦𝘯𝘵𝘴 𝘮𝘢𝘬𝘦 𝘺𝘰𝘶𝘳 𝘤𝘰𝘥𝘦 𝘮𝘰𝘳𝘦 𝘦𝘧𝘧𝘪𝘤𝘪𝘦𝘯𝘵, 𝘴𝘦𝘤𝘶𝘳𝘦, 𝘢𝘯𝘥 𝘴𝘰 𝘰𝘯?
+
 One potential area for improvement is the addition of error handling. Currently, the program assumes that the user will enter valid input. However, this is not always the case, and users may enter negative numbers or non-integer values, which could cause the program to crash or produce unexpected results. By adding error handling, the program could prompt the user to enter valid input, which would improve the security and reliability of the program.
 
 
